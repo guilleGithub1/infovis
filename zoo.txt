@@ -1,1 +1,5 @@
-
+visual encodings
+nuanced judgments
+Protovis
+Stacked Graphs
+Choropleth Maps
